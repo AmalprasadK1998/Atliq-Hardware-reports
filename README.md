@@ -6,7 +6,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/AmalprasadK1998/Atliq-Hardware-reports/blob/main/customer_performance.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AmalprasadK1998/Atliq-Hardware-reports/blob/main/Market-performance-vs-Target.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AmalprasadK1998/Atliq-Hardware-reports/blob/main/Market%20performance%20vs%20Target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -19,9 +19,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AmalprasadK1998/Atliq-Hardware-reports/blob/main/P%20%26%20L%20by%20fiscal%20years.pdf)_ & _[Months](https://github.com/AmalprasadK1998/Atliq-Hardware-reports/blob/main/P%20%26%20L%20by%20month.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AmalprasadK1998/Atliq-Hardware-reports/blob/main/P%20%26%20L%20(Markets).pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
